@@ -2,12 +2,35 @@
 {"dg-publish":true,"dg-home":true,"meta_title":"Aiskel Delgado","meta_description":"Bienvenido a mi jardín digital personal.","image":"https://aiskeldelgado.vercel.app/img/foto.jpg","permalink":"/aiskel-delgado/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
+# 🧠 El Jardín de Conocimientos de Aiskel Delgado
 
-# 👀 **Menú de Navegación**
-- [[Aiskel Delgado/Rompe tus limites\|Rompe tus limites]]
-- [[Aiskel Delgado/HERRAMIENTAS\|HERRAMIENTAS]] 
-## 👋🏽*Bienvenido a mi blog de información*
-El fin de esta web es compartir información relevante y herramientas que he conocido y estudiado, adicional a eso estaré abriendo nuevas secciones a futuro a medida que requieras mas de mis conocimientos o que desee compartir algo contigo.
-## 💬Comentarios
-recuerda que puedes dejarme tus comentarios sobre temas que deseas conocer, mas explicación sobre un tema publicado o dudas a través de 📲 aiskeldelgadopp+conocimientos@gmail.com
+👋🏽 **Bienvenido.**
+
+Este espacio es mi arquitectura de información personal. Aquí, sintetizo y comparto las **herramientas y estrategias prácticas** que he estudiado.
+
+Mi objetivo es claro: Que encuentres el conocimiento preciso que necesitas para **expandir tus límites** y optimizar tu desarrollo personal y profesional.
+
+---
+
+## 🔎 Contenido Esencial (Empieza Aquí)
+
+Esta es la navegación principal de mi jardín. Haz clic en lo que más te interese:
+
+* [**Rompe tus limites**](/rompe-tus-limites)
+    * Artículos y reflexiones enfocadas en la estrategia personal, mentalidad y la acción necesaria para alcanzar tus metas.
+* [**HERRAMIENTAS**](/herramientas)
+    * Acceso a las plataformas, aplicaciones y recursos tecnológicos que recomiendo para organizar, automatizar y optimizar tu trabajo diario.
+
+---
+
+## 💬 Conecta y Comenta
+
+Este espacio se nutre de la conversación. Si te queda alguna duda sobre un tema publicado o deseas compartir algo de valor, puedes dejarme tus comentarios:
+
+(Aquí puedes dejar tu bloque de comentarios que tenías antes, o simplemente tu email si lo prefieres):
+aiskeldelgado + conocimientos@gmail.com 
+
+---
+
+
 
