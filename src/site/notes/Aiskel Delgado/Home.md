@@ -28,7 +28,7 @@ Esta es la navegación principal de mi jardín. Haz clic en lo que más te inter
 Este espacio se nutre de la conversación. Si te queda alguna duda sobre un tema publicado o deseas compartir algo de valor, puedes dejarme tus comentarios:
 
 (Aquí puedes dejar tu bloque de comentarios que tenías antes, o simplemente tu email si lo prefieres):
-aiskeldelgado + conocimientos@gmail.com 
+aiskeldelgado+conocimientos@gmail.com 
 
 ---
 
