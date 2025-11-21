@@ -9,7 +9,7 @@ INTRODUCCION
 </p>
 
 ## **De lo común a lo extraordinario**
-Es momento de tomar el control de tu vida y eso involucra a tu mente y tu cuerpo actuando en función de los objetivos y metas que quieres para tu futuro. Hacer las cosas fuera de lo común no significa actuar mal, sin respeto, sin control o por sentir, todo lo contrario.
+Es momento de tomar el control de tu vida y eso involucra a tu mente y tu cuerpo actuando en función de los objetivos y metas que quieres para tu futuro. Hacer las cosas fuera de lo común no significa actuar mal, sin respeto, sin control o por sentir, todo lo contrario. 
 
 Actuar fuera de lo común consiste en ver mas allá de tus limites, es organizar tu vida en función de lo quieres conseguir a futuro y salir de los limites que te impone la sociedad o tal vez tu pensar, ya que, el mundo sigue evolucionando y eso significa que cada día el ser humano tiene mas facilidades para conseguir sus metas. no siempre la evolución favorece al ser humo ya que por naturaleza el ser humano siempre elije el camino mas fácil o mas rápido sin analizar mucho en cuales métodos o herramientas son realmente favorable, dejamos de lado el hecho de que a veces hay esfuerzos que generan beneficios como al ejercitarte generas músculos. por eso estoy aquí para facilitarte este proceso de análisis adaptado a lo que necesitas 
 
