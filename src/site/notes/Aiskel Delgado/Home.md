@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":true,"meta_title":"Aiskel Delgado","meta_description":"Bienvenido a mi jardín digital personal.","image":"https://patyweb.vercel.app/img/foto.jpg","permalink":"/aiskel-delgado/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"meta_title":"Aiskel Delgado","meta_description":"Bienvenido a mi jardín digital personal.","image":"https://aiskeldelgado.vercel.app/img/foto.jpg","permalink":"/aiskel-delgado/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-.
+
 # 👀 **Menú de Navegación**
 - [[Aiskel Delgado/Rompe tus limites\|Rompe tus limites]]
 - [[Aiskel Delgado/HERRAMIENTAS\|HERRAMIENTAS]] 
