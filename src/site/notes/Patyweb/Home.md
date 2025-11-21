@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/patyweb/home/","tags":["gardenEntry"]}
 ---
 
+
 # **menú de navegación inicial**
 - [[Patyweb/Rompe tus limites\|Rompe tus limites]]
 - [[Patyweb/HERRAMIENTAS\|HERRAMIENTAS]]
