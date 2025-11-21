@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/aiskel-delgado/rompe-tus-limites/","dgPassFrontmatter":true}
 ---
 
-
+.
 <p align="center">
 INTRODUCCION
 </p>

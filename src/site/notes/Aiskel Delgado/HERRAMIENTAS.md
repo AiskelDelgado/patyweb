@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/aiskel-delgado/herramientas/","dgPassFrontmatter":true}
 ---
 
-
+.
 - **Plataformas para desarrollo de habilidades o adquisición de conocimiento:**
  >[!tip] Recuerda que en los navegadores tiene la opción de "INTALAR" ubicado en los tres puntos de opciones en la esquina superior derecha de tu navegador, sirve para que se muestre en la pantalla de inicio y puedas verla como aplicación. o también puedes optar por la opción "AGREGAR A PANTALLA DE INICIO" que genera el acceso directo a la web a la pantalla de inicio.
 
