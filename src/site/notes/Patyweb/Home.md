@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/patyweb/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"dg-title":"Aiskel Delgado","dg-description":"Bienvenido a mi jardín digital personal.","image":"https://i.pinimg.com/736x/66/32/00/663200889baaddee5e43ac6f42e3b844.jpg","permalink":"/patyweb/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
-# 👀**menú de navegación inicial**
+# 👀**Menú de Navegación **
 - [[Patyweb/Rompe tus limites\|Rompe tus limites]]
 - [[Patyweb/HERRAMIENTAS\|HERRAMIENTAS]]
 ## 👋🏽*Bienvenido a mi blog de información*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/patyweb/herramientas/"}
+{"dg-publish":true,"permalink":"/patyweb/herramientas/","dgPassFrontmatter":true}
 ---
 
 

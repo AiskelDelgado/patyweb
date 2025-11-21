@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/patyweb/rompe-tus-limites/"}
+{"dg-publish":true,"permalink":"/patyweb/rompe-tus-limites/","dgPassFrontmatter":true}
 ---
 
 
