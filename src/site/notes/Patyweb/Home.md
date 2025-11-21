@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"meta_title":"Aiskel Delgado","meta_description":"Bienvenido a mi jardín digital personal.","image":"https://patyweb.vercel.app/img/src/site/img/webaiskel.jpg","permalink":"/patyweb/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"meta_title":"Aiskel Delgado","meta_description":"Bienvenido a mi jardín digital personal.","image":"https://patyweb.vercel.app/img/webaiskel.jpg","permalink":"/patyweb/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
