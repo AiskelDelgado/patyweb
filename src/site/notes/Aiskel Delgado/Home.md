@@ -16,9 +16,9 @@ Mi objetivo es claro: Que encuentres el conocimiento preciso que necesitas para 
 
 Esta es la navegación principal de mi jardín. Haz clic en lo que más te interese:
 
-* [[Aiskel Delgado/Rompe tus limites\|Rompe tus limites]]
+* **[[Aiskel Delgado/Rompe tus limites\|Rompe tus limites]]**
     * Artículos y reflexiones enfocadas en la estrategia personal, mentalidad y la acción necesaria para alcanzar tus metas.
-* [[Aiskel Delgado/HERRAMIENTAS\|HERRAMIENTAS]]
+* **[[Aiskel Delgado/HERRAMIENTAS\|HERRAMIENTAS]]**
     * Acceso a las plataformas, aplicaciones y recursos tecnológicos que recomiendo para organizar, automatizar y optimizar tu trabajo diario.
 
 ---
